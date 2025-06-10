@@ -10,6 +10,9 @@ Passionate about data analysis and software development, with experience in acad
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=queenalpha&theme=github_dark" alt="queenalpha's GitHub Stats"/>
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=queenalpha&theme=github_dark" alt="queenalpha's GitHub Stats"/>
+</div>
 ---
 
 ### 💻 Tech Stack
@@ -24,8 +27,3 @@ Passionate about data analysis and software development, with experience in acad
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-<div align="center">
-    <img src="https://raw.githubusercontent.com/queenalpha/queenalpha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
